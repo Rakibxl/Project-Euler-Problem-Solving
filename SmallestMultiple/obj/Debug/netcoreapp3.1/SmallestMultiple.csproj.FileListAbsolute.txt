@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Euler Practice\SmallestMultiple\SmallestMultiple\bin\Debug\netcoreapp3.1\SmallestMultiple.exe
+C:\Users\Administrator\Desktop\Euler Practice\SmallestMultiple\SmallestMultiple\bin\Debug\netcoreapp3.1\SmallestMultiple.deps.json
+C:\Users\Administrator\Desktop\Euler Practice\SmallestMultiple\SmallestMultiple\bin\Debug\netcoreapp3.1\SmallestMultiple.runtimeconfig.json
+C:\Users\Administrator\Desktop\Euler Practice\SmallestMultiple\SmallestMultiple\bin\Debug\netcoreapp3.1\SmallestMultiple.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Euler Practice\SmallestMultiple\SmallestMultiple\bin\Debug\netcoreapp3.1\SmallestMultiple.dll
+C:\Users\Administrator\Desktop\Euler Practice\SmallestMultiple\SmallestMultiple\bin\Debug\netcoreapp3.1\SmallestMultiple.pdb
+C:\Users\Administrator\Desktop\Euler Practice\SmallestMultiple\SmallestMultiple\obj\Debug\netcoreapp3.1\SmallestMultiple.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Euler Practice\SmallestMultiple\SmallestMultiple\obj\Debug\netcoreapp3.1\SmallestMultiple.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Euler Practice\SmallestMultiple\SmallestMultiple\obj\Debug\netcoreapp3.1\SmallestMultiple.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Euler Practice\SmallestMultiple\SmallestMultiple\obj\Debug\netcoreapp3.1\SmallestMultiple.dll
+C:\Users\Administrator\Desktop\Euler Practice\SmallestMultiple\SmallestMultiple\obj\Debug\netcoreapp3.1\SmallestMultiple.pdb
